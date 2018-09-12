@@ -11,7 +11,7 @@ import (
 	"os"
 
 	"github.com/juju/loggo"
-	"gopkg.in/juju/charm.v6"
+	"gopkg.in/juju/charm.v7-unstable"
 
 	"github.com/juju/bundlechanges"
 )

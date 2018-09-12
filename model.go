@@ -10,7 +10,7 @@ import (
 	"github.com/juju/collections/set"
 	"github.com/juju/naturalsort"
 	"github.com/kr/pretty"
-	"gopkg.in/juju/charm.v6"
+	"gopkg.in/juju/charm.v7-unstable"
 	"gopkg.in/juju/names.v2"
 )
 
